@@ -1,4 +1,4 @@
-var api = "http://45.77.252.65:8183";
+var api = "http://207.148.74.63:8183";
 
 var poolHost = "cn-electroneum-pool.newbilitypool.com";
 
