@@ -1,8 +1,8 @@
 {
-    "coin": "Graft",
-    "symbol": "GRF",
-    "coinUnits": 1000000000,
-    "coinDifficultyTarget": 120,
+    "coin": "Electroneum",
+    "symbol": "ETN",
+    "coinUnits": 1000000000000,
+    "coinDifficultyTarget": 60,
 
     "logging": {
         "files": {
@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "G7GYv8uztaSGcdaeUCB54GPkwpuJZMEYENrzc8cpehhiBMCRfjjbbZ7favQwwi35dXbXGvdtkTwYMPeWcgxpX1DZK5TpGAv",
+        "poolAddress": "etnk8ig1sEJNWo8pqY8JYw8nuogi48fuf5boCYRkzJRyEX4WT1kxsv6L3GpqTWBRJeHLZ88jTbg5M2TTdmnsecC691WVzt8ThL",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -108,12 +108,12 @@
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 18981
+        "port": 26967
     },
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 8191
+        "port": 26967
     },
 
     "redis": {
